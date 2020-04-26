@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+
+}
+p{
+    color: white;
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+img{
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+}
+.quotes{
+    background-color: grey;
+    width: 33%;
+    margin-right: auto;
+    margin-left: auto;border-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    margin-top: 20x;
+    padding:20px;
+    height: auto;
+    color: white;
+    
+
+}
+button{
+    margin-top: 10px;
+}
+.quote{
+    font-size: 30px;
+
+}
+.author{
+    font-size: 20px;
+    font-style: italic;
+}
